@@ -8,6 +8,7 @@ public class ThreadsEx3 {
 		Simplethread myThread2 = new Simplethread("Thread Y");
 		  myThread1.start();
 		  myThread2.start();
+		 //another comment to confirm ..
 	}
 
 }
