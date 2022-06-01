@@ -9,6 +9,8 @@ public class ThreadsEx3 {
 		  myThread1.start();
 		  myThread2.start();
 		 //another comment to confirm ..
+	// test 1 one more after pushing 
+		  
 	}
 
 }
